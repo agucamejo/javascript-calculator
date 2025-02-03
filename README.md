@@ -20,7 +20,7 @@ To get started with Javascript Calculator, clone the repository and install the 
 
 ```bash
 git clone https://github.com/your-username/javascript-calculator.git
-cd markdown-previewer
+cd javascript-calculator
 npm install
 npm start
 ```
